@@ -98,6 +98,36 @@
                 Console.WriteLine("The remainging balance "+ final);
             }
 
+            //C# Practice Tasks
+            //Task1
+            Console.WriteLine("Please Enter number from 1 to 7");
+            int number = Convert.ToInt32(Console.ReadLine());
+            switch (number) {
+                case 1:  
+                 Console.WriteLine("the day is Monday ");
+                    break;
+                case 2:
+                    Console.WriteLine("the day is Tuseday ");
+                    break;
+                case 3:
+                    Console.WriteLine("the day is Wednesday ");
+                    break;
+                case 4:
+                    Console.WriteLine("the day is Thursday ");
+                    break;
+                case 5:
+                    Console.WriteLine("the day is Friday ");
+                    break;
+                case 6:
+                    Console.WriteLine("the day is Suterday ");
+                    break;
+                case 7:
+                    Console.WriteLine("the day is Sunday ");
+                    break;
+                default:
+                    Console.WriteLine("Invalid day number ");
+                    break;
+            }
 
 
         }

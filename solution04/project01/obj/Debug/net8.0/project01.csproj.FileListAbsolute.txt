@@ -12,3 +12,4 @@ C:\Users\shima\OneDrive\Documents\swiqSolution\solution04\project01\obj\Debug\ne
 C:\Users\shima\OneDrive\Documents\swiqSolution\solution04\project01\obj\Debug\net8.0\project01.pdb
 C:\Users\shima\OneDrive\Documents\swiqSolution\solution04\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
 C:\Users\shima\OneDrive\Documents\swiqSolution\solution04\project01\obj\Debug\net8.0\ref\project01.dll
+C:\Users\shima\OneDrive\Documents\swiqSolution\solution04\project01\obj\Debug\net8.0\project01.sourcelink.json
