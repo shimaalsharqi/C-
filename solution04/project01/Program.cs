@@ -1,0 +1,107 @@
+﻿namespace project01
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //First task
+            Console.WriteLine("Please Enter any Number");
+            int num = Convert.ToInt32(Console.ReadLine());
+            if (num == 0)
+            {
+                Console.WriteLine("The Number is a Zero");
+            }
+            else if (num > 0)
+            {
+                Console.WriteLine("The Number is a positive");
+            }
+            else if (num < 0)
+            {
+                Console.WriteLine("The Number is a Negative");
+            }
+            else
+            {
+                Console.WriteLine("Please Enter Just a Number");
+            }
+            //Second Task
+            Console.WriteLine("Please Enter a Integar Number");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            if (num1 %2== 0) {
+                Console.WriteLine("The Number is a Even");
+            }
+            else if (num1 % 2 != 0)
+            {
+                Console.WriteLine("The Number is a Odd");
+            }
+            else  
+            {
+                Console.WriteLine("Please Enter Just a Number");
+            }
+
+            //Third Task
+            Console.WriteLine("Please Enter a student score from 0 to 100");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            if (num2>=90 && num2==100) {
+                Console.WriteLine("The student is Excellent");
+            }
+            else if (num2 >= 75 && num2 <= 89)
+            {
+                Console.WriteLine("The student is Very Good");
+            }
+            else if (num2 >= 60 && num2 <= 74)
+            {
+                Console.WriteLine("The student is Good");
+            }
+            else if (num2 >= 50 && num2 <= 59)
+            {
+                Console.WriteLine("The student is Pass");
+            }
+            else if ( num2 <50)
+            {
+                Console.WriteLine("The student is Fail");
+            }
+            else if (num2 >100 && num2 < 0)
+            {
+                Console.WriteLine("Please Enter a student score from 0 to 100");
+            }
+            else  
+            {
+                Console.WriteLine("Please Enter a student score from 0 to 100");
+            }
+            //Fourth Task
+            Console.WriteLine("Please Enter The username and the password");
+            string username = Console.ReadLine();   
+            int pass = Convert.ToInt32(Console.ReadLine());
+            if (username =="admin" && pass == 1234) {
+                Console.WriteLine("Login Successful");
+            }
+            else 
+            {
+                Console.WriteLine("Invalid Username or Password");
+            }
+            //Task 5
+            int balance = 1000;
+            Console.WriteLine("Enter a withdrawal amount");
+            int amount = Convert.ToInt32(Console.ReadLine());
+            int final = balance - amount;
+            if (amount <= 0)
+            {
+                Console.WriteLine("Invalid Amount");
+            }
+            else if (amount > balance)
+            {
+                Console.WriteLine("Insufficient Balance");
+            }
+            else if (amount < balance || amount == balance)
+            {
+                Console.WriteLine("withdrawal Successful ");
+                Console.WriteLine("The remainging balance "+ final);
+            }
+
+
+
+        }
+    }
+}
+
+
