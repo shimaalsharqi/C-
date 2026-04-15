@@ -128,8 +128,13 @@
                     Console.WriteLine("Invalid day number ");
                     break;
             }
-
-
+            //task 2
+            Console.WriteLine("Please Enter number");
+            int number1 = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine($"{i}*{number1}= {i * number1}");
+            }
         }
     }
 }
