@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CA5908F-BD36-41CD-B892-2486F605C13D}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution06\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CA5908F-BD36-41CD-B892-2486F605C13D}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution06\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "project01\\Program.cs",
               "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution06\\project01\\Program.cs*",
               "RelativeToolTip": "project01\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwE0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T05:07:00.396Z",
               "EditorCaption": ""
