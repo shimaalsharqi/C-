@@ -135,6 +135,15 @@
             {
                 Console.WriteLine($"{i}*{number1}= {i * number1}");
             }
+            //task 3
+            //Console.WriteLine("Please Enter number from 1 to 7");
+            //int number3 = Convert.ToInt32(Console.ReadLine());
+            //int x = 0;
+            //while (x < number3)
+            //{
+            //    Console.WriteLine(number3);
+            //    number3--;
+            //}
         }
     }
 }
