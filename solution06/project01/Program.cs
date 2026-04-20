@@ -84,9 +84,9 @@
                 Console.WriteLine("the word is not perfact");
             }
             #endregion
+             
 
-
-
+            
 
 
         }
