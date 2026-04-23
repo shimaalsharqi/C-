@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18034A85-26C3-4986-A1A6-483CC942FCC1}|StudentSystem01\\StudentSystem01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\studentsystem01\\studentsystem01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18034A85-26C3-4986-A1A6-483CC942FCC1}|StudentSystem01\\StudentSystem01.csproj|solutionrelative:studentsystem01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18034A85-26C3-4986-A1A6-483CC942FCC1}|StudentSystem01\\StudentSystem01.csproj|C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\studentsystem01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18034A85-26C3-4986-A1A6-483CC942FCC1}|StudentSystem01\\StudentSystem01.csproj|solutionrelative:studentsystem01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18034A85-26C3-4986-A1A6-483CC942FCC1}|StudentSystem01\\StudentSystem01.csproj|C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\studentsystem01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18034A85-26C3-4986-A1A6-483CC942FCC1}|StudentSystem01\\StudentSystem01.csproj|solutionrelative:studentsystem01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\StudentSystem01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StudentSystem01\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\StudentSystem01\\Form1.Designer.cs",
+              "RelativeToolTip": "StudentSystem01\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:06:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\StudentSystem01\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentSystem01\\Form1.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\StudentSystem01\\Form1.cs",
+              "RelativeToolTip": "StudentSystem01\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:33:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\StudentSystem01\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentSystem01\\Form1.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentSystem01\\StudentSystem01\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentSystem01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:32:04.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

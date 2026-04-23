@@ -1,0 +1,10 @@
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\bin\Debug\StudentSystem01.exe.config
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\bin\Debug\StudentSystem01.exe
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\bin\Debug\StudentSystem01.pdb
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\obj\Debug\StudentSystem01.csproj.AssemblyReference.cache
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\obj\Debug\StudentSystem01.Form1.resources
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\obj\Debug\StudentSystem01.Properties.Resources.resources
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\obj\Debug\StudentSystem01.csproj.GenerateResource.cache
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\obj\Debug\StudentSystem01.csproj.CoreCompileInputs.cache
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\obj\Debug\StudentSystem01.exe
+C:\Users\shima\OneDrive\Documents\swiqSolution\StudentSystem01\StudentSystem01\obj\Debug\StudentSystem01.pdb
