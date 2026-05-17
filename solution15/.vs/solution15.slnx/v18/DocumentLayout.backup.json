@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA00D2D3-1899-4D60-A6E1-87169575A23B}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution15\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA00D2D3-1899-4D60-A6E1-87169575A23B}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA00D2D3-1899-4D60-A6E1-87169575A23B}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution15\\project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA00D2D3-1899-4D60-A6E1-87169575A23B}|project01\\project01.csproj|solutionrelative:project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 802,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution15\\project01\\Program.cs",
+              "RelativeDocumentMoniker": "project01\\Program.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution15\\project01\\Program.cs",
+              "RelativeToolTip": "project01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:40:13.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution15\\project01\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "project01\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution15\\project01\\AppDbContext.cs",
+              "RelativeToolTip": "project01\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:11:45.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
