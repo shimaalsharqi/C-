@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace project01
+{
+    public class Course
+    {
+        public int CourseId { get; set; }
+
+        public string Title { get; set; }
+
+        public int Hours { get; set; }
+
+        public List<Student> StudentsList { get; set; } = new List<Student>();
+    }
+}

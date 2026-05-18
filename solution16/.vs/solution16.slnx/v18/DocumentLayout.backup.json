@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\migrations\\20260517113358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\migrations\\20260517113358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\entities\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\entities\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\migrations\\20260517113358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\migrations\\20260517113358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75948B33-39B2-48FE-B059-D570AFEF20A0}|project01\\project01.csproj|solutionrelative:project01\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\solution16\\project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "20260517113358_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Migrations\\20260517113358_InitialCreate.cs",
               "RelativeDocumentMoniker": "project01\\Migrations\\20260517113358_InitialCreate.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "project01\\Migrations\\20260517113358_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:33:59.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:33:59.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Watchlist.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Entities\\Watchlist.cs",
               "RelativeDocumentMoniker": "project01\\Entities\\Watchlist.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "project01\\Entities\\Watchlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:27:17.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:27:17.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "project01\\Entities\\Review.cs",
@@ -80,12 +78,11 @@
               "RelativeToolTip": "project01\\Entities\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:26:41.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:26:41.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "project01\\Entities\\Category.cs",
@@ -93,12 +90,11 @@
               "RelativeToolTip": "project01\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:25:58.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:25:58.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Entities\\Movie.cs",
               "RelativeDocumentMoniker": "project01\\Entities\\Movie.cs",
@@ -106,12 +102,11 @@
               "RelativeToolTip": "project01\\Entities\\Movie.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAIwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:22:20.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:22:20.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Entities\\User.cs",
               "RelativeDocumentMoniker": "project01\\Entities\\User.cs",
@@ -119,12 +114,11 @@
               "RelativeToolTip": "project01\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:21:32.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:21:32.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\AppDbContext.cs",
               "RelativeDocumentMoniker": "project01\\AppDbContext.cs",
@@ -132,8 +126,7 @@
               "RelativeToolTip": "project01\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAwwA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:02:40.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:02:40.708Z"
             },
             {
               "$type": "Document",
@@ -141,8 +134,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Program.cs",
               "RelativeDocumentMoniker": "project01\\Program.cs",
-              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Program.cs*",
-              "RelativeToolTip": "project01\\Program.cs*",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\solution16\\project01\\Program.cs",
+              "RelativeToolTip": "project01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T11:01:27.492Z",

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\studentmanagementsystem\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\studentmanagementsystem\\project01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|solutionrelative:project01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\studentmanagementsystem\\project01\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|solutionrelative:project01\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\studentmanagementsystem\\project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|solutionrelative:project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Migrations\\20260518114611_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project01\\Migrations\\20260518114611_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|c:\\users\\shima\\onedrive\\documents\\swiqsolution\\studentmanagementsystem\\project01\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E635B27E-326F-46FF-9609-AC10F346BB64}|project01\\project01.csproj|solutionrelative:project01\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 802,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260518114611_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Migrations\\20260518114611_InitialCreate.cs",
+              "RelativeDocumentMoniker": "project01\\Migrations\\20260518114611_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Migrations\\20260518114611_InitialCreate.cs",
+              "RelativeToolTip": "project01\\Migrations\\20260518114611_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:46:11.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "project01\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\AppDbContext.cs",
+              "RelativeToolTip": "project01\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:18:53.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Course.cs",
+              "RelativeDocumentMoniker": "project01\\Course.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Course.cs",
+              "RelativeToolTip": "project01\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:06:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Department.cs",
+              "RelativeDocumentMoniker": "project01\\Department.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Department.cs",
+              "RelativeToolTip": "project01\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:04:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Program.cs",
+              "RelativeDocumentMoniker": "project01\\Program.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Program.cs",
+              "RelativeToolTip": "project01\\Program.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAUwPoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:59:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Student.cs",
+              "RelativeDocumentMoniker": "project01\\Student.cs",
+              "ToolTip": "C:\\Users\\shima\\OneDrive\\Documents\\swiqSolution\\StudentManagementSystem\\project01\\Student.cs",
+              "RelativeToolTip": "project01\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:01:01.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
